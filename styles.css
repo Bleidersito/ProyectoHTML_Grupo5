@@ -1,0 +1,46 @@
+body{
+    background-color: pink;
+}
+.Pelicula {
+    width: 250px;
+    height: 350px;
+    /* display: flex;
+    flex-direction: column;
+    margin-bottom: 5px; */
+}
+.imagen{
+    display: flex;
+    margin-bottom: 5px;
+    border: 1px black solid;
+    background-color: white;
+
+}
+p{
+    margin-left: 5px;
+    color: blue;
+    width: 100%;
+}
+.Ted {
+    width: 1920px;
+    height: 500px;
+}
+.enlace{
+    display: block;
+    margin: 0 50% 0 50%;
+}
+/* .PeliculaDos{
+    max-width: 250px;
+    height: 350px;
+}
+.PeliculaTres{
+    max-width: 250px;
+    height: 350px;
+}
+.PeliculaCuatro{
+    max-width: 250px;
+    height: 350px;
+}
+.PeliculaCinco{
+    max-width: 250px;
+    height: 350px;
+} */
